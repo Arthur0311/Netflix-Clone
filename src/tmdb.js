@@ -1,6 +1,3 @@
-const API_BASE = 'https://api.themoviedb.org/3';
-const API_KEY = '6f42ec5ebc2f1e9025fd66f1539e0537';
-
 
 export default {
     getHomeList: async () =>  {
