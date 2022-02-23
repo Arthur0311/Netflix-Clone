@@ -10,7 +10,7 @@
 
 # production
 /build
-/tmdb.js
+src\tmdb.js
 
 # misc
 .DS_Store
